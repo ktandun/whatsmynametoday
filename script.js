@@ -1,4 +1,4 @@
-const names = ["Paula", "Pau", "Nica"];
+const names = ["Paula", "Pau", "Nica", "Polnics"];
 
 function seededRandom(s) {
     return function () {
